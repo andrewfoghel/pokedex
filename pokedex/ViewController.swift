@@ -6,7 +6,7 @@
 //  Copyright © 2017 Andrew Foghel. All rights reserved.
 //
 
-//Linking project to git hub, create new repository, 
+//Linking project to git hub, create new repository, and go to directory in terminal and the git remote add after a commit and push then git push origin master
 import UIKit
 
 class ViewController: UIViewController {
