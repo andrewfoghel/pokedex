@@ -6,6 +6,7 @@
 //  Copyright © 2017 Andrew Foghel. All rights reserved.
 //
 
+//Linking project to git hub, create new repository, 
 import UIKit
 
 class ViewController: UIViewController {
